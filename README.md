@@ -1,3 +1,7 @@
+
+I am trying to restart the project, at the moment to be able to make it run I have had to use older versions for the dependencies.
+It works partially with a configuration of Lighting Sorceress and for the places, Piddleskin, Nihlathak and Arcane Sanctuary.
+
 # <img src="assets/docs/header_green.png" width="370">
 
 Pixelbot for Diablo 2 Resurrected. This project is for informational and educational purposes only.
